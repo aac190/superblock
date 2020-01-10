@@ -6,6 +6,6 @@ This repository contains the Qgis and R resources used for the Geographic Inform
 
 Shapefiles and graphical model file
 
-## R
+### R
 
 Input Data folder and R-script
